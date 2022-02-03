@@ -31,6 +31,8 @@
 
 # Screenshot 
 
+![tech-about-it scrreen](https://user-images.githubusercontent.com/89273544/152429689-a515e09d-8b4e-4740-9767-6cad7e4b5907.png)
+
 <br />
 
 
