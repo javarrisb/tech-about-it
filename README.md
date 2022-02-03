@@ -8,11 +8,11 @@
 
 # Table of Contents
 
-  - [Description] (#description)
-  - [Usage] (#usage)
-  - [Screenshot] (#screenshot)
-  - [Links] (#links)
-  - [Contributions] (#contributions)
+  - [Description](#description)
+  - [Usage](#usage)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Contributions](#contributions)
   <br />
  
 
