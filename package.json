@@ -5,7 +5,12 @@
   "main": "server.js",
   "scripts": {
     "test": "jest",
-    "seeds": "node seeds/index.js"
+    "seeds": "node seeds/index.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javarrisb/tech-about-it.git"
   },
   "author": "",
   "license": "ISC",
