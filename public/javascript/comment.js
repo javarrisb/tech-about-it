@@ -1,3 +1,4 @@
+// comment form submission
 async function commentFormHandler(event) {
     event.preventDefault();
 
