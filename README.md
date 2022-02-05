@@ -20,6 +20,8 @@
 # Usage
 - Click on the deployed application below to use Tech-About-It and start by sigining up, add new posts, and giving feedback to other blog posts on the app
 
+https://tech-about-it.herokuapp.com/
+
 <br />
 
  
@@ -40,7 +42,7 @@
 
 
 
-Live Site - 
+Live Site - https://tech-about-it.herokuapp.com/
 <br />
 
 # Contributions
