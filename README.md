@@ -40,6 +40,8 @@ https://tech-about-it.herokuapp.com/
 
 # Links
 
+- Starting of server link: https://youtu.be/dAL68JfssJc
+
 
 
 Live Site - https://tech-about-it.herokuapp.com/
